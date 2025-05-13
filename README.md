@@ -1,4 +1,4 @@
-# Adivinhe o Número Secreto
+🤔# Adivinhe o Número Secreto
 
 Um jogo web simples em que o usuário tenta adivinhar um número aleatório entre 1 e 10. Desenvolvido como projeto inicial do curso da Alura.
 
