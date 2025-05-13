@@ -17,8 +17,6 @@ Um jogo web simples em que o usuário tenta adivinhar um número aleatório entr
 
 ## 🚀 Tecnologias
 
-## 🚀 Tecnologias
-
 - **JavaScript** — lógica do jogo  
 - **HTML** — estrutura da página  
 - **CSS** — estilos e layout
@@ -36,3 +34,11 @@ projeto_inicial-Alura/
 ├── index.html ← Marcações da página principal
 ├── style.css ← Estilos (gradiente, responsividade, botões etc.)
 └── app.js ← Lógica do jogo (geração de número, tratamento de chute, TTS)
+
+--- 
+
+## ▶️ Jogue agora
+
+[👉 Adivinhe o Número Secreto](https://runmichele.github.io/projeto_inicial-Alura/)
+
+
